@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="/media/Dados/Arquivos/Documentos/Desenvolvimento/QtChip8Emu/Image/drawing.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title3500">QChip8Emulator Icon</title>
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.197802"
+     inkscape:cx="1.0831366"
+     inkscape:cy="6.0459804"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="false"
+     showborder="true"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>QChip8Emulator Icon</dc:title>
+        <dc:date>06/12/14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Michell Stuttgart</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="arc"
+       style="fill:#4d4d4d"
+       id="path3057"
+       sodipodi:cx="15.976172"
+       sodipodi:cy="15.960681"
+       sodipodi:rx="15.849878"
+       sodipodi:ry="15.786732"
+       d="m 31.826051,15.960681 a 15.849878,15.786732 0 1 1 -31.69975686,0 15.849878,15.786732 0 1 1 31.69975686,0 z"
+       transform="translate(0,0.06314693)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ddff55"
+       id="path3005"
+       sodipodi:sides="5"
+       sodipodi:cx="16.102467"
+       sodipodi:cy="16.023827"
+       sodipodi:r1="15.55582"
+       sodipodi:r2="8.7043185"
+       sodipodi:arg1="-0.69629753"
+       sodipodi:arg2="-1.0050731"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 28.037236,6.0466116 20.768212,8.6756313 29.279409,24.291338 24.53281,18.190497 12.311495,31.110645 16.64696,24.711098 0.58257512,17.080481 8.0086386,19.226185 10.301618,1.590057 10.555712,9.315722 z"
+       inkscape:transform-center-x="1.1714747"
+       inkscape:transform-center-y="0.32652428"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-0.06314693,-0.12629386)" />
+  </g>
+</svg>
