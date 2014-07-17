@@ -19,12 +19,10 @@ Make sure the Qt (>= 4.8) development libraries are installed:
 
 Now you can compile by running:
 
-$ qmake (or qmake-qt4 on some systems, like Fedora)
+$ qmake (or qmake-qt4 on some systems, like Fedora) <br>
 $ make
 
 You can now simply run QChip8 Emulator using ./qchip8-emulator
-
- 
 
 Keyboard Configuration
 ======================
