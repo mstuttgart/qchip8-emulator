@@ -8,6 +8,25 @@ The QChip8 Emulator is a freeware open source RCA COSMAC VIP emulator and CHIP-8
 Microsoft Windows and GNU Linux.implemented with Qt4 framework. QChip8 Emulator may be freely distributed, 
 not for commercial purposes.If you want to reuse anything, go ahead, as long as you credit me, and your project is open source too.
 
+Compiling
+==============
+
+Make sure the Qt (>= 4.8) development libraries are installed:
+
+In Ubuntu/Debian: sudo apt-get install libqt4-dev
+In Fedora: yum install qt-devel
+In Arch Linux: pacman -S qt
+In Mac OS X with Homebrew: brew install qt
+
+Now you can compile by running:
+
+$ qmake (or qmake-qt4 on some systems, like Fedora)
+$ make
+
+You can now simply run QChip8 Emulator using ./qchip8-emulator
+
+ 
+
 Keyboard Configuration
 ======================
 
