@@ -47,7 +47,7 @@ Ctrl+Q: exit emulator
 ## Contributing
 If you'd like to contribute, please create a fork and issue pull requests! I am
 very open to newcomers, and will need all the help we can get to make the best
-Game Library available.
+Chip8 emulator available.
 
 ### I found a bug!
 Please report any and all bugs using the project issue
