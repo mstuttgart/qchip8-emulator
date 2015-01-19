@@ -6,6 +6,8 @@ The QChip8 Emulator is a freeware open source RCA COSMAC VIP emulator and CHIP-8
 Microsoft Windows and GNU Linux.implemented with Qt4 framework. QChip8 Emulator may be freely distributed, 
 not for commercial purposes.If you want to reuse anything, go ahead, as long as you credit me, and your project is open source too.
 
+Obs.: SCHIP support yet not implemented.
+
 ## Compiling
 Make sure the Qt (>= 4.8) development libraries are installed:
 
@@ -54,7 +56,6 @@ Please report any and all bugs using the project issue
 tracker. Be as precise as possible so that the bug can be found easier. Thanks!
 
 ## About
-Obs.: SCHIP support yet not implemented.
-Developer: Michell Stuttgart
+Copyright 2014 Michell Stuttgart
 Internal RCA COSMAC VIP Operating System, CHIP-8 interpreters (C) Joseph Weisbecker 1977-1990(?)
 
