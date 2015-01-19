@@ -56,6 +56,7 @@ Please report any and all bugs using the project issue
 tracker. Be as precise as possible so that the bug can be found easier. Thanks!
 
 ## About
-Copyright 2014 Michell Stuttgart
+Copyright (C) 2014-2015 by Michell Stuttgart Faria
+
 Internal RCA COSMAC VIP Operating System, CHIP-8 interpreters (C) Joseph Weisbecker 1977-1990(?)
 
