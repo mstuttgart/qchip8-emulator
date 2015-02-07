@@ -10,16 +10,17 @@ Obs.: SCHIP support yet not implemented.
 
 ## Compiling
 Make sure the Qt (>= 4.8) development libraries are installed:
-
+```
 * In Ubuntu/Debian: sudo apt-get install libqt4-dev
 * In Fedora: yum install qt-devel
 * In Arch Linux: pacman -S qt
+```
 
 Now you can compile by running:
-
+```
 	$ qmake (or qmake-qt4 on some systems, like Fedora) <br>
 	$ make
-
+```
 You can now simply run QChip8 Emulator using ./qchip8-emulator
 
 ### Keyboard Configuration
