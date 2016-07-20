@@ -19,7 +19,7 @@ Make sure the Qt (>= 4.8) development libraries are installed:
 
 Now you can compile by running:
 ```
-	$ qmake (or qmake-qt4 on some systems, like Fedora) <br>
+	$ qmake (or qmake-qt4 on some systems, like Fedora) 
 	$ make
 ```
 You can now simply run QChip8 Emulator using ./qchip8-emulator
@@ -53,7 +53,7 @@ Please report any and all bugs using the project issue
 tracker. Be as precise as possible so that the bug can be found easier. Thanks!
 
 ## About
-Copyright (C) 2014-2015 by Michell Stuttgart Faria
+Copyright (C) 2014-2016 by Michell Stuttgart Faria
 
 Internal RCA COSMAC VIP Operating System, CHIP-8 interpreters (C) Joseph Weisbecker 1977-1990(?)
 
