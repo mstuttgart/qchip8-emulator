@@ -7,7 +7,10 @@ The QChip8 Emulator is a freeware open source RCA COSMAC VIP emulator and CHIP-8
 Microsoft Windows and GNU Linux.implemented with Qt4 framework. QChip8 Emulator may be freely distributed, 
 not for commercial purposes.If you want to reuse anything, go ahead, as long as you credit me, and your project is open source too.
 
-![](https://lh3.googleusercontent.com/-OXs0imXmGzw/VyrDR4T7LsI/AAAAAAAAGBU/8bUinpBK8xImAz3YA21NtnQhB6trZj8DwCCo/s516/emu1.png)
+<p align="center">
+<a name="top" href="https://github.com/mstuttgart/qchip8-emulator"><img src="https://lh3.googleusercontent.com/-OXs0imXmGzw/VyrDR4T7LsI/AAAAAAAAGBU/8bUinpBK8xImAz3YA21NtnQhB6trZj8DwCCo/s516/emu1.png"></a>
+</p>
+
 
 ## Compiling
 Make sure the Qt (>= 4.8) development libraries are installed:
@@ -24,7 +27,9 @@ Now you can compile by running:
 ```
 You can now simply run QChip8 Emulator using ./qchip8-emulator
 
-![](https://lh3.googleusercontent.com/-beIOelZelI0/VyrDR_kImKI/AAAAAAAAGBY/vyagXZY-CoslskpIJ0Fuct-pPmHT2M03ACCo/s516/emu2.png)
+<p align="center">
+<a name="top" href="https://github.com/mstuttgart/qchip8-emulator"><img src="https://lh3.googleusercontent.com/-beIOelZelI0/VyrDR_kImKI/AAAAAAAAGBY/vyagXZY-CoslskpIJ0Fuct-pPmHT2M03ACCo/s516/emu2.png"></a>
+</p>
 
 ### Keyboard Configuration
 Keyboard configuration in CHIP and it respective in PC keyboard:
