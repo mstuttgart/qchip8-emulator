@@ -13,7 +13,8 @@ not for commercial purposes.If you want to reuse anything, go ahead, as long as 
 
 
 ## Compiling
-Make sure the Qt (>= 4.8) development libraries are installed:
+Make sure the Qt (<= 4.8) development libraries are installed:
+
 ```
 * In Ubuntu/Debian: sudo apt-get install libqt4-dev
 * In Fedora: yum install qt-devel
@@ -21,9 +22,10 @@ Make sure the Qt (>= 4.8) development libraries are installed:
 ```
 
 Now you can compile by running:
-```
-	$ qmake (or qmake-qt4 on some systems, like Fedora) 
-	$ make
+
+```bash
+qmake (or qmake-qt4 on some systems, like Fedora) 
+make
 ```
 You can now simply run QChip8 Emulator using ./qchip8-emulator
 
