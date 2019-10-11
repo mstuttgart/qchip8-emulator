@@ -8,7 +8,7 @@ Microsoft Windows and GNU Linux.implemented with Qt4 framework. QChip8 Emulator 
 not for commercial purposes.If you want to reuse anything, go ahead, as long as you credit me, and your project is open source too.
 
 <p align="center">
-<a name="top" href="https://github.com/mstuttgart/qchip8-emulator"><img src="https://lh3.googleusercontent.com/-OXs0imXmGzw/VyrDR4T7LsI/AAAAAAAAGBU/8bUinpBK8xImAz3YA21NtnQhB6trZj8DwCCo/s516/emu1.png"></a>
+<a name="top" href="https://github.com/mstuttgart/qchip8-emulator"><img src="https://lh3.googleusercontent.com/i4SzkR5Y4c-d0pwSUgSaAyS0cz9C2lOWRR-XpYI-sr12zBrG0APys6bKUL5m71ZAum-JEeiuJrjznO9bN_duJ-urkkvqdEF9oX6fwVOnc--8MgHnyd_neg0DeUxzlO5LAanN8UXPnQg0yOznJa75MqIc7pyPuJ8Ze_QN1gPQIAK1PvQRwe9HdYRlb6gd1xlTfEEtbkVamod-4r0gV9qh-l0KHUQGgf5Gye9HSC2odhm14C9qg07fhgS_zBQHcXmbSVBVmZvIbiYmLNg0YLG_gqLCO-scTS_IguQRE90cQ2PT6cSmxEfovXpq1iS1jYLz9KoGhDkv1xBOWFBzaNm39s7GKYAnAQt6GviyY5jhDlxcEuM6VfXimUa7NgWf0otLvz2dw1oaqrxyqUSoYXxDwMdo0W13zXH4jQcD3Yg79voGiMMoKRbLMwzp7heMHCJCYJJoHk7ZCGDBrU_YVMq91Oc5sNbQMrXNUmtDkwxwjwZohbY0OsQ4rY0L_S9OK0WRgGff0mdrfJ1CidfUAJzyH3RyzQCJpna4HoNJBWHtumV8tDpnpXAJJ7MK_FW4NyQOVx955i4o6pJSDKDpDUlUkLZE6O6H3JrZTPCqM49QbXsO0-oMwMVRR8qrHumx0pNstg9Z-gKvkCf7jNIg17EWTa9g5EwXxly4aXsDDwHP2F2szTo=w516-h313-no"></a>
 </p>
 
 
