@@ -1,7 +1,4 @@
-QChip8-Emulator
-===============
-
-## Introduction
+# QChip8-Emulator
 
 The QChip8 Emulator is a freeware open source RCA COSMAC VIP emulator and CHIP-8 interpreter for 
 Microsoft Windows and GNU Linux.implemented with Qt4 framework. QChip8 Emulator may be freely distributed, 
@@ -30,7 +27,7 @@ make
 You can now simply run QChip8 Emulator using ./qchip8-emulator
 
 <p align="center">
-<a name="top" href="https://github.com/mstuttgart/qchip8-emulator"><img src="https://lh3.googleusercontent.com/-beIOelZelI0/VyrDR_kImKI/AAAAAAAAGBY/vyagXZY-CoslskpIJ0Fuct-pPmHT2M03ACCo/s516/emu2.png"></a>
+<a name="top" href="https://github.com/mstuttgart/qchip8-emulator"><img src="https://lh3.googleusercontent.com/xZ-YoycsnviVF6p5PsEIQaaRqPU1C7F-CVE_Lw0dWJ9yED8DKSKxXK4t-qTA8dXxkpiwwgHIyqRLEeUT0KLnBVMGVPX0myeKgBBme3Ky4oNaHGK1SKVCfsjWh1RchjB4hKR2_EJIzWtEGvm_5EdDz8zY8RgWIsDzEGAo4GXhOb-ceWf0p0GG-oAqCSXK-g9S_I2nhbFqs9lMYkaXvB5MAkU8WEVU4nsIH0J71wb5f7Df0e8XBhPq4qKV8zYkeYT6jPAbquegexeyY9ch_I9Ter7ecGKfl6mRYRm7Bfue5fKD1VPr46vNt8fsK63ZXGnd-9OCSAQAfbAFoSG31eXT5Ho8-vlfGMEqYFdSUgnfNTCITy7afFHhLXKhNB2AUyBsdFXRvCAASZJbhE2zN7isHnzla5CDPxhgD0PQbyhO1gXso8_0P_o8hto6-YL56QFWZp14loht0UnnltRjoT0znaAnXy00kV1GK0Q0jYpOH-1nG9hIezxhmNZwVVHHjngCD67TOYaiX7sK0u9BdxqcIyUnU0XhYtd1X2X6HN9Sa_qxGEFGjXTUO0yPjLBEu--ldH6ynPE2PbgsbXhzWggFkFSM-Ii4IZadIwaX9ZC1q9p_FzYJX3UIB2vgeXJ6O9g4fT6N-droElZ0RuAhRkER2gl0q81b7UrBUF0TOe8-e7JsA68=w516-h313-no"></a>
 </p>
 
 ### Keyboard Configuration
